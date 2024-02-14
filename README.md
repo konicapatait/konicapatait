@@ -7,5 +7,5 @@
 
 - 🔭 I’m Konica Patait
 - 🌱 I’m currently learning Data Science and AI
-- 👯 I’m looking to collaborate on Deta Science projects
+- 👯 I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: konicapatait@gmail.com
